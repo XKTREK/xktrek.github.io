@@ -9,7 +9,7 @@
 
 <!-- <a href='https://scholar.google.com/citations?user=GoceuAsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<p>* Equal contribution, † Corresponding author</p>
+<!-- <p>* Equal contribution, † Corresponding author</p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2506</div><img src='images/pub/MM-R5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -23,4 +23,4 @@ Mingjun Xu\*, Jinhan Dong\*, <strong>Jue Hou\*</strong>, Zehui Wang, Sihang Li, 
 </div>
 </div>
 
-- ``arXiv 2506`` [Doc2SAR: A Synergistic Framework for High-Fidelity Extraction of Structure-Activity Relationships from Scientific Documents](https://arxiv.org/pdf/2506.21625). Jiaxi Zhuang\*, Kangning Li\*, <strong>Jue Hou</strong>, Mingjun Xu, Zhifeng Gao, Hengxing Cai†.
+- ``arXiv 2506`` [Doc2SAR: A Synergistic Framework for High-Fidelity Extraction of Structure-Activity Relationships from Scientific Documents](https://arxiv.org/pdf/2506.21625). Jiaxi Zhuang\*, Kangning Li\*, <strong>Jue Hou</strong>, Mingjun Xu, Zhifeng Gao, Hengxing Cai†. -->
