@@ -13,8 +13,6 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
-<!-- {% include_relative includes/publications.md %} -->
-
 {% include_relative includes/honors.md %}
 
 <!-- {% include_relative includes/educations.md %} -->
