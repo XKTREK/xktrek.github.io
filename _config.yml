@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: "Jue Hou"
+title: "Xingkang Zhao"
 description: ""
-repository: "Marquis03/marquis03.github.io"
+repository: "XKTREK/xktrek.github.io"
 google_scholar_stats_use_cdn: false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification: # https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name: "Jue Hou (侯爵)"
-  avatar: "images/avatar.jpg"
+  name: "Xingkang Zhao (赵行康)"
+  avatar: "images/z2.jpg"
   bio:
   location:
   employer: "Xiamen University"
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=GoceuAsAAAAJ"
-  email: "marquis03@qq.com"
+  email: "xingkangzhao@stu.xmu.edu.cn"
   researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -37,7 +37,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: Marquis03 # e.g., "github username"
+  github: XKTREK # e.g., "github username"
   google_plus:
   keybase:
   instagram:
@@ -57,7 +57,7 @@ author:
   xing:
   youtube:
   wikipedia:
-  kaggle: Marquis03 # e.g., "kaggle username"
+  kaggle: XKTREK # e.g., "kaggle username"
 
 # Reading Files
 include:
