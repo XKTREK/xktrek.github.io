@@ -6,14 +6,14 @@ main:
   - title: "📢 News"
     url: "/#-news"
 
-  - title: "📚 Publications"
-    url: "/#-publications"
+  # - title: "📚 Publications"
+  #   url: "/#-publications"
 
-  - title: "🏆 Competitions"
-    url: "/#-competitions"
+  - title: "🏆 Honors"
+    url: "/#-honors"
 
-  - title: "🎓 Educations"
-    url: "/#-educations"
+  # - title: "🎓 Educations"
+  #   url: "/#-educations"
 
   - title: "💼 Experiences"
     url: "/#-experiences"
